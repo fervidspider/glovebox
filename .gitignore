@@ -1,0 +1,9 @@
+# API Project
+
+api/obj/
+api/bin/
+api/appsettings.Development.json
+
+# Web Project
+
+# Mobile Project
