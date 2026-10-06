@@ -7,3 +7,10 @@ api/appsettings.Development.json
 # Web Project
 
 # Mobile Project
+
+# DB Files
+
+db/
+
+# MacOS Files
+.DS_Store
